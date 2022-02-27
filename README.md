@@ -1,0 +1,1 @@
+Some basic shell commands I use when creating python packages.
